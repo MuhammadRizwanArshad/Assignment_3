@@ -1,0 +1,36 @@
+#main-div
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    flex-direction: column;
+}
+
+#main-div input
+{
+    padding: 0.5rem;
+    width: 25rem;
+    margin: 1rem;
+}
+
+#gender 
+{
+    padding: 0.5rem;
+    width: 26.5rem;
+    margin: 1rem;
+}
+
+#s-btn
+{
+    padding: 1rem;
+    width: 25rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    color: white;
+    background-color: black;
+    outline: none;
+    border: none;
+}
